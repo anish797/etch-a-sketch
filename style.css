@@ -1,36 +1,15 @@
-.pixel{
-  /* border: 2px solid black; */
-}
-
 .row{
   display: flex;
-  /* justify-content: center;
-  align-items: center; */
 }
 
 .grid{
   background-color: white;
   justify-content: center;
   align-items: center;
-  width: 640px;
-  height: 640px;
-  /* max-width: 960px;
-  height: 960px;
-  border: 2px solid black; */
+  width: 400px;
+  height: 400px;
+  
 }
-/* .pixelRow{
-  display: flex; 
-  flex: auto;
-} */
-
-/* .grid{
-  display: flex;
-  flex-direction: column;
-} */
-
-/* div{
-  border: 2px solid black;
-} */
 
 body{
   background-color: antiquewhite;
